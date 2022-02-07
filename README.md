@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on https://github.com/aimhubio/aim
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about javascript, react, node, aim
+- 📫 How to reach me: rubenaprikyan@gmail.com
