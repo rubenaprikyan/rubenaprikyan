@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on https://github.com/aimhubio/aim
-- 💬 Ask me about javascript, react, node, aim
+- 💬 Ask me about javascript, react, node, aimstack
 - 📫 How to reach me:
      - [Linkedin](https://www.linkedin.com/in/ruben-aprikyan-29501a163/)
      - rubenaprikyan@gmail.com
