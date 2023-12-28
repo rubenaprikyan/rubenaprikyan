@@ -3,5 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@RubenAprikyan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RubenaAprikyan)](https://twitter.com/RubenAprikyan) [![Linkedin Badge](https://img.shields.io/badge/-@rubenaprikyan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubenaprikyan/)](https://www.linkedin.com/in/rubenaprikyan/)
 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubenaprikyan/rubenaprikyan/output/github-contribution-grid-snake-dark.svg">
+ <img alt="snake!" src="https://raw.githubusercontent.com/rubenaprikyan/rubenaprikyan/output/github-contribution-grid-snake-light.svg">
+</picture>
 
 ![Metrics](https://metrics.lecoq.io/rubenaprikyan?template=classic&lines=1&stargazers=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=chartist&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FYerevan)
